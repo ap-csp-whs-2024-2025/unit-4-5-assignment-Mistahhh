@@ -8,7 +8,7 @@ void displayList(std::vector<T> const &v);
 int main()
 {
     // You can follow along with any code in class here
-    std::vector<list> My_List = {1, 2, 3, 4, 5, 6, 7, 8, 9, 0.01, "Hi"};
+    std::vector<int> My_List = {1, 2, 3, 4, 5, 6, 7, 8, 9};
 
     ;displayList(My_List, 0)
     return 0;
